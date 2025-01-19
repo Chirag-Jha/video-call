@@ -21,14 +21,16 @@ Ensure you have the following installed:
    git clone https://github.com/Chirag-Jha/video-call.git
    cd video-chat-app
 2. Install dependencies:
-   ```npm install package.json```
-
+   ```bash
+   npm install package.json
 3.Run the server:
-```npm start nodemon```
-
+   ```bash
+   npm start nodemon
+```
 4.Open your browser and navigate to:
-```http://localhost:9000```
-<br>
+   ```bash 
+   http://localhost:9000
+```
 ### Usage
 - Joining the Chat <br>
 - Enter your username in the input field and click "Join". <br>
