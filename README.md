@@ -18,7 +18,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/video-chat-app.git
+   git clone https://github.com/Chirag-Jha/video-call.git
    cd video-chat-app
 2. Install dependencies:
    ```npm install package.json```
